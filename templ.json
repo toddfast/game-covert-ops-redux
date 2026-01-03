@@ -1,0 +1,29 @@
+{
+    "paths": {
+        "assets": "assets/",
+        "data": "data/",
+        "output": "output/",
+        "scripts": "scripts/illustrator/",
+        "printTemplates": null
+    },
+
+    "printTemplates": {
+        "bridge": "template-cards-bridge-tabletopia-8in12in-v2.ai",
+        "tarot": "template-cards-tarot-handcut-8in12in-v2.ai",
+        "square70mm": "template-cards-square70mm-handcut-8in12in-v2.ai",
+        "mini-chimera": "template-cards-mini-chimera-handcut-8in12in.ai",
+        "mini-chimera-hex": "template-cards-mini-chimera-hex-handcut-8in12in.ai"
+    },
+
+    "entities": {
+        "test": {
+            "default": {
+                "version": "0.1.0",
+                "variant": "a",
+                "format": "bridge",
+                "printTemplate": null,
+                "dataURL": null
+            }
+        }
+    }
+}
