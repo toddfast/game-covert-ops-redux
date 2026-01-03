@@ -16,6 +16,15 @@
     },
 
     "entities": {
+      "backup-plan": {
+            "default": {
+                "version": "0.1.0",
+                "variant": "a",
+                "format": "bridge",
+                "printTemplate": null,
+                "dataURL": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRGIlWFcyIbJp8UK_xEcXNDZyNVQJpnY4jJnljERy9c8QZk00DXMLnBv-jFLh_NVs-ntKJN61EhUxfJ/pub?gid=1926892837&single=true&output=tsv"
+            }
+        },        
         "test": {
             "default": {
                 "version": "0.1.0",

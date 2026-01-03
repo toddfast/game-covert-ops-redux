@@ -1,0 +1,66 @@
+Count	Level	Name	Effect	Type	Timing	Notes
+3	0	Collect SIGINT	Gain 1 Blue Intel.	Activated	Early	
+3	0	Collect HUMINT	Gain 1 Red Intel.	Activated	Early	
+3	0	Collect IMINT	Gain 1 Yellow Intel.	Activated	Early	
+3	0	Budget Request	Gain 1 Funding.	Activated	Early	
+3	0	Insights	Gain 1 Operational Progress.	Activated	Early	
+3	0	Reappraise	Convert 1 Intel on a face-down Backup Plan to another type.	Activated	Mid	
+2	1	Espionage	Gain 1 Intel.	Activated	Early	
+2	1	Diversion	Force an opponent to lose 1 Operational Progress.	Activated	Early	
+1	1	Compile	Place future Mission Rewards on this card instead of on face-down cards. At the end of the Operation, gain +1 Mission Reward from the supply for every 2 Mission Rewards on this card.	Future	Early	Scaling resource aggregation, rewards consistency in winning.
+1	1	Redundancy	Double 1 Mission Reward on the card to the left.	Activated	Mid	
+1	1	Turnover	Destroy a Backup Plan (including this one) to gain 3 Funding.	Activated	Mid, Late	Trades tableau space for immediate benefit.
+0	1	Unexpected Twist	Activate a Twist effect.	Activated	Early	
+2	1	Sell Secrets	Lose 1 Intel to gain 1 Funding.	Activated	Early	
+0	1		You have +2 Blue Intel for recruiting Local Assets.	Ongoing	Early	
+0	1		You have +2 Red Intel for recruiting Local Assets.	Ongoing	Early	
+0	1		You have +2 Yellow Intel for recruiting Local Assets.	Ongoing	Early	
+0	1		You have +1 Intel for recruiting Local Assets.	Ongoing	Early	
+1	1	Serendipity	Gain 1 random Mission Reward from the bag.	Activated	Early	
+1	1	Bet On The Come	At the end of the Operation, activate all Backup Plans to the right of this card.	Future	Early	Requires a gamble on future turns.
+1	2	Reappraise	At the end of the Operation, activate all Backup Plans to the left of this card.	Future	Late	
+1	2	Shadow	Copy 1 Mission Reward gained by any player with Priority this turn.	Activated	Early	
+1	2	Jackpot	Double Mission Rewards of a single type on a face-down Backup Plan.	Activated	Mid	
+1	2	Breakthrough	Convert all Intel of 1 type on a face-down Backup Plan to another type.	Activated	Late	
+1	2	Success Breeds Success	Duplicate 1 Mission Reward on any face-down Backup Plan.	Activated	Mid	
+1	2	Sweeten the Deal	Duplicate 1 Mission Reward on a face-down Backup Plan to the left.	Activated	Mid	
+1	2	Make Your Own Luck	Duplicate 1 Mission Reward on a face-down Backup Plan to the right.	Activated	Early	
+1	2	Collaboration	At the end of the Operation, sum the levels of your face-up Backup Plans. Gain 1 Mission Reward for every 3 levels (round up).	Future	Late	
+1	2	Hardball	Force each player with Priority at any Location this turn to lose 1 Operation Progress.	Activated	Early	
+1	2	Double Agents	Gain 1 Operational Progress for each player with Priority at a Location this turn.	Activated	Early	
+1	2	Pull Up Stakes	At the end of the Operation, gain 1 Operational Progress per face-up Backup Plan.	Future	Late	
+1	2	Mandatory Overtime	At the end of the Operation, gain 1 Operational Progress per face-down Backup Plan.	Future	Late	
+1	2	Decode	Lose 1 Intel to gain 2 Intel of a different type.	Activated	Early	
+1	2	Extended Network	Take 1 Mission Reward from a Location you did not visit during this Mission. Replace from the bag.	Activated	Early	
+1	2	Red Herring	Replace 1 Mission Reward on a Location with one of your choice from the supply.	Activated	Early	Why?
+1	2	Rumors	Draw 2 random Mission Rewards from the bag and keep 1.	Activated	Early	
+1	2	Slush Fund	Gain 1 Funding. You may lose 2 Funding to gain 1 Intel.	Activated	Mid	
+1	2	Out On A Limb	Move the token up on the track, or gain the current reward listed on the space with the token and reset the track.	Activated	Early	Push your luck. Track printed on the card. Needs extra spots on card in case another card allows moving higher than normal.
+1	3	Insurance	Start the next Operation with a face-up Backup Plan.	Future	Late	Opportunity cost this round but big payoff next round. May need to be balanced with a cost.
+1	3	Coup de Grace	At the end of the Operation, activate all other face-up Backup Plans.	Future	Late	Combo Finisher. Activates the entire tableau for a massive end-of-round effect.
+1	3	Plan A	Copy the Backup Plan to the left of this card.	Activated	Mid, Late	Combo Duplicator. Duplicates an adjacent effect for double value in one turn.
+1	3	Leverage	For each of your face-down Backup Plans, take 1 Mission Reward from any Location.	Activated	Early	Scaling Reward. Scales exponentially with successful priority wins, turning losses into huge resource gains. Best to play in the middle when there are 2 face-down BPs to the left and at least one more opportunity to trigger on the right.
+1	3	Apply Pressure	For each of your face-down Backup Plans, take 1 random Mission Reward from the bag.	Activated	Late	Scaling Reward. Scales exponentially with successful priority wins.
+1	3	Unmask Plot	For each of your face-down Backup Plans, take 1 Mission Reward from the supply.	Activated	Late	Scaling Reward. Scales exponentially with successful priority wins.
+1	3	Fight Another Day	You may flip this card face down to flip a face-down Backup Plan card face up and activate it.	Activated	Mid	Tension Breaker. Converts a card played from a win (face-down) into a face-up activation, gaining both reward and effect.
+1	3	Double Down	Copy the effect of the rightmost Backup Plan card.	Activated	Early	Combo Duplicator. (This loses one resource due to opportunity cost of playing—worth it?)
+1	3	Subterfuge	The next time you have Priority at a Location, also play a face-up Backup Plan, activate it, and then flip this card face down. Do not activate other face-up Backup Plans.	Future	Early	Tension Breaker. Get a reward and play a face-up card in a single action (one-time).
+1	3	At The Ready	The next time you lose Priority at a Location, play an extra face-up Backup Plan then flip this card face down.	Future	Early	Engine Starter. Allows for double tableau growth on a loss (one-time).
+1	3	Pull Out	The next time you have Priority at a Location, take 1 fewer Mission Rewards to trigger face-up Backup Plans as if you had lost Priority.	Future	Mid	Tension Breaker. Get a reduced reward (1 reward) and also activate all your face-up cards. This is powerful. Should it only activate one BP?
+1	3	Snipe	When you have Priority, take 1 extra Mission Reward from your Location. Replace from the bag.	Ongoing	Early	Persistent Engine. Provides a continuous, scalable bonus to wins.
+1	3	Decrypt	Intel rewards you gain can be of any type (exchange from the supply).	Ongoing	Early	Rule Changer. Permanent rule modification that guarantees optimal Intel sets, making the primary scoring condition significantly easier. Incentivizes going later in initiative to allow playing this card early.
+1	3	Gunning For Promotion	Place a token on this card. At the end of the Operation, convert all tokens here to a single type of Mission Reward of your choice.	Future	Early	Scaling Engine. Accumulates a resource every time a face-up effect is played, paying out a bulk, customizable reward later.
+1	3	Support Team	Place a token on a face-up Backup Plan card without a token. When a card with a token is activated, remove the token to activate it again.	Activated	Mid	Combo Multiplier. Allows a key face-up effect to be activated twice.
+1	3	Preempt	Swap 1 Mission Reward of your choice with a Mission Reward from the player to your right.	Activated	Mid	High Interaction. Can steal the exact resource an opponent needs to complete an Intel Report.
+1	3	Outmaneuver	Swap 1 Mission Reward of your choice with a Mission Reward from the player to your left.	Activated	Mid	High Interaction. Can steal the exact resource an opponent needs to complete an Intel Report.
+1	3	Chicken Feed	Give 1 Mission Reward to another player to activate a face-up Backup Plan, or gain 1 Operational Progress or 2 Funding.	Future		Social/costly interaction effect.
+1	3	New Orders	When you have Priority at a Location you may instead decide to lose Priority.	Ongoing	Early, Mid	Tactical choice to intentionally lose and trigger face-up effects instead of claiming a prize.
+0	1		Move card left when triggered?			
+0	1		Double 1 Mission Reward on the card to the right.			
+0	3		Copy the Backup Plan to the right of this card.			Combo Duplicator. Duplicates an adjacent effect for double value in one turn.
+0	3		Move 1 Reward on each card left in your tableau. When N of the same kind are on the same card, do X.			(why?) Combo Engine. Complex reward management that leads to a huge, scalable bonus (X).
+0	1		Block a player from swapping your Mission Rewards.			Feels too situational and underpowered. It also nerfs the other player’s card. Maybe these need to be one-time/reactive? Opportunity cost here feels very high. Maybe play from hand as an interrupt on top of a face-down card?
+0	2		Duplicate 1 Mission Reward on the first face-down Backup Plan to the left.	Activated	Mid, Late	
+0	2		Duplicate 1 Mission Reward on the first face-down Backup Plan to the right.	Activated	Early, Mid	
+0	3	Disguise	You may copy the Priority of the player to your right and then turn this card face down. Ties are resolved in turn order.	Activated	Early, Mid	i.e. next highest priority (or lowest, if have initiative). Win Breaker. Grants a guaranteed win/reward and a face-down play, circumventing the normal priority rules.
+0	1	Decoy				
