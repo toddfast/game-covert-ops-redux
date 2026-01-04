@@ -1,0 +1,8 @@
+Count	Location 1	District 1	Location 2	District 2	Location 3	District 3	Blue Intel	Red Intel	Yellow Intel	Operation	Funding	Twist
+1	Vienna	Innere Stadt	Berlin	East Berlin	Vienna	The Sewers	1	2	3	4	5	6
+1	Berlin	East Berlin	Istanbul	Pera District	Berlin	West Berlin	6	1	2	3	4	5
+1	Reset	Shuffle the deck	Vienna	Innere Stadt	Istanbul	Pera District	5	6	1	2	3	4
+1	Vienna	The Sewers	Berlin	West Berlin	Reset	Shuffle the deck	4	5	6	1	2	3
+1	Berlin	West Berlin	Istanbul	The Golden Horn	Vienna	Innere Stadt	3	4	5	6	1	2
+1	Istanbul	The Golden Horn	Reset	Shuffle the deck	Berlin	East Berlin	2	3	4	5	6	1
+1	Istanbul	Pera District	Vienna	The Sewers	Istanbul	The Golden Horn	1	4	2	5	3	6

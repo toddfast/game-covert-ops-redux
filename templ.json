@@ -16,6 +16,15 @@
     },
 
     "entities": {
+      "automa": {
+            "default": {
+                "version": "0.1.0",
+                "variant": "b",
+                "format": "bridge",
+                "printTemplate": null,
+                "dataURL": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRGIlWFcyIbJp8UK_xEcXNDZyNVQJpnY4jJnljERy9c8QZk00DXMLnBv-jFLh_NVs-ntKJN61EhUxfJ/pub?gid=518346141&single=true&output=tsv"
+            }
+      },        
       "backup-plan": {
             "default": {
                 "version": "0.1.0",
@@ -23,6 +32,24 @@
                 "format": "bridge",
                 "printTemplate": null,
                 "dataURL": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRGIlWFcyIbJp8UK_xEcXNDZyNVQJpnY4jJnljERy9c8QZk00DXMLnBv-jFLh_NVs-ntKJN61EhUxfJ/pub?gid=1926892837&single=true&output=tsv"
+            }
+        },        
+      "location": {
+            "default": {
+                "version": "0.1.0",
+                "variant": "a",
+                "format": "tarot",
+                "printTemplate": null,
+                "dataURL": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRGIlWFcyIbJp8UK_xEcXNDZyNVQJpnY4jJnljERy9c8QZk00DXMLnBv-jFLh_NVs-ntKJN61EhUxfJ/pub?gid=1698898121&single=true&output=tsv"
+            }
+        },        
+      "player-board": {
+            "default": {
+                "version": "0.1.0",
+                "variant": "a",
+                "format": "tarot",
+                "printTemplate": null,
+                "dataURL": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRGIlWFcyIbJp8UK_xEcXNDZyNVQJpnY4jJnljERy9c8QZk00DXMLnBv-jFLh_NVs-ntKJN61EhUxfJ/pub?gid=735188865&single=true&output=tsv"
             }
         },        
         "test": {
